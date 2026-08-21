@@ -3,6 +3,8 @@
 R Shiny app that plots your Strava runs on a map, with a street-level heatmap,
 date filtering, and summary stats.
 
+![Screenshot](screenshot.png)
+
 ## Setup
 
 The raw Strava export (`Strava_260517/`) is not checked into this repo (it
