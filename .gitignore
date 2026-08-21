@@ -1,0 +1,12 @@
+# Raw Strava export: contains precise GPS traces (home/street-level PII), not for git
+Strava_260517/
+
+# Derived cache built from the raw export — also location data, and can be large
+cache/
+
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+.obsidian/
